@@ -1,0 +1,3 @@
+Pawn from (1, 3) to (2, 3)
+Pawn from (6, 5) to (5, 5)
+Knight from (0, 6) to (2, 5)
